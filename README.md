@@ -1,6 +1,6 @@
-# Surfs Up
+# **Surfs Up**
 
-## **Project Overview
+## **Project Overview**
 
 _An analysis of climate data using Python, SQLAlchemy, Pandas, and Matplotlib._
 
@@ -11,7 +11,7 @@ The background of the Surf's Up project was to determine the viability of a surf
 
 
 
-## **Results
+## **Results**
 
 * _Min and Max Temps_
 
@@ -30,5 +30,5 @@ The background of the Surf's Up project was to determine the viability of a surf
 
 
 
-## **Summary  
+## **Summary**  
 In conclusion, June temperatures may attract more tourists, and in turn, increase sales. Even so, further analysis comparing precipitation and temperature observations across all months would provide additional benefit to this analysis. I also recommend reviewing temperature observation and precipitation data for the weather station closest to the proposed business location. The addition of these analyses could provide further insights into determining year-round sustainability. 
